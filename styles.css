@@ -18,3 +18,30 @@
 }
 
 
+
+#title {
+    color: #ffff00;
+    background-color: black;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.header {
+    color: black;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description,
+.ing,
+.step {
+    font-size: 18px;
+    font-family:'Courier New', monospace;
+}
+
+.ing,
+.step {
+    font-weight: bold;
+}
